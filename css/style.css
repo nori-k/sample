@@ -61,6 +61,7 @@
   z-index: 2;
   cursor: pointer;
 }
+/*
 .nav-toggle-button.close::before,
 .nav-toggle-button.open::before {
   font-family: "FontAwesome";
@@ -71,3 +72,4 @@
 .nav-toggle-button.open::before {
   content: "\f00d";
 }
+*/
